@@ -45,7 +45,7 @@
 		<div class="container">
 			<h2 class="title" style="color:#fff">Welcome to Tygerella</h2>
 			<br>
-			   <div class="description" style="color:#fff">Tygerella, formerly known as Tygarella Technologies, is primarily an ICT service provide, bringing together the people, process and technologies in order to enable the customers to archive the great return on investment. Our main activities are...</div>
+			   <div class="description" style="color:#fff">Tygerella is primarily an ICT service provide, bringing together the people, process and technologies in order to enable the customers to archive the great return on investment. Our main activities are...</div>
 			   <br>
 			<a href="about_us.php" class="firo-bottom sm">Read More!</a>
 		</div>

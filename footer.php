@@ -37,7 +37,7 @@
                             <div class="contact-info opacity-9">
                                 <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
                                 <div class="text">
-                                    <span class="title-in">43 Montrose Street, Vorna Valley Midrand, 1686, South Africa</span> 
+                                    <span class="title-in">43 Oudekraal Close, Noordwyk Johannesburg, 1687, South Africa</span>
 
                                 </div>
                             </div>
@@ -48,14 +48,7 @@
                                 <div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
                                 <div class="text">
                                     <span class="title-in">Tel :</span><br>
-                                    <span class="font-weight-500 text-uppercase">+27 (0)11 655 7019</span>
-                                </div>
-                            </div>
-							 <div class="contact-info opacity-9">
-                                <div class="icon  margin-top-5px"><span class="icon_mobile"></span></div>
-                                <div class="text">
-                                    <span class="title-in">Fax :</span><br>
-                                    <span class="font-weight-500 text-uppercase">+27 (0)11 655 7011</span>
+                                    <span class="font-weight-500 text-uppercase">+27 (0)11 318 0520</span>
                                 </div>
                             </div>
 							 <div class="contact-info opacity-9">
@@ -71,7 +64,7 @@
 
                 <div class="col-lg-3 col-md-6 d-lg-block d-none">
                     <div class="nile-widget sm-mb-45px">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.7930693469393!2d28.116051314680934!3d-26.00759516232438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956e073290958f%3A0x51c3b86089a37bd1!2s43+Montrose+St%2C+Vorna+Valley%2C+Midrand%2C+1686%2C+South+Africa!5e0!3m2!1sen!2sin!4v1541352345791" width="285" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.4982915301434!2d28.12370081571602!3d-25.95169346005918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956fc51a14cf17%3A0x46a7b3cb35083e98!2s43%20Oudekraal%20Cl%2C%20Noordwyk%2C%20Midrand%2C%201687!5e0!3m2!1sen!2sza!4v1631456392897!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>
 

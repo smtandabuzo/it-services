@@ -34,7 +34,7 @@
                     </div>
                 </div>
             <div class="col-lg-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.7930693469393!2d28.116051314680934!3d-26.00759516232438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956e073290958f%3A0x51c3b86089a37bd1!2s43+Montrose+St%2C+Vorna+Valley%2C+Midrand%2C+1686%2C+South+Africa!5e0!3m2!1sen!2sin!4v1541352345791" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3587.4982915301434!2d28.12370081571602!3d-25.95169346005918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e956fc51a14cf17%3A0x46a7b3cb35083e98!2s43%20Oudekraal%20Cl%2C%20Noordwyk%2C%20Midrand%2C%201687!5e0!3m2!1sen!2sza!4v1631456392897!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
             <div class="col-lg-6">
                 <div class="row">
@@ -42,7 +42,7 @@
                         <div class="icon-text layout-1">
                             <div class="icon"><img src="assets/icons/icon-8.svg" alt=""></div>
                             <h3><a class="link" href="#">Address</a></h3>
-                            <div class="dis">43 Montrose Street<br>Vorna Valley Midrand, 1686<br>South Africa</div>
+                            <div class="dis">43 Oudekraal Close<br>Noordwyk Johannesburg, 1687<br>South Africa</div>
                         </div>
                     </div>
                     <div class="col-lg-6 margin-tb-55px">
@@ -56,14 +56,7 @@
                         <div class="icon-text layout-1">
                              <div class="icon"><img src="assets/icons/icon-11.svg" alt=""></div>
                             <h3><a class="link" href="#">Tel</a></h3>
-                            <div class="dis">+27 (0)11 655 7019</div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 margin-bottom-35px">
-                        <div class="icon-text layout-1">
-                           <div class="icon"><img src="assets/icons/icon-10.svg" alt=""></div>
-                            <h3><a class="link" href="#">FAX</a></h3>
-                            <div class="dis">+27 (0)11 655 7011</div>
+                            <div class="dis">+27 (0)11 318 0520</div>
                         </div>
                     </div>
                 </div>

@@ -34,7 +34,7 @@
                 <div class="col-lg-9">
                     <div class="firo-title dark text-center">
                         <h2 class="title">About the Company</h2>
-                        <div class="description">Formerly known as Tygarella Technologies, Tygerella offers the highest quality of Information Technology products and services on the market today. We have provided superior service to our customers and have assisted them in achieving their goals. Our advanced experience and commitment to excellence have earned us the reputation as the best Information technology company in the area.</div>
+                        <div class="description">Tygerella offers the highest quality of Information Technology products and services on the market today. We have provide superior service to our customers and have assist them in achieving their goals. Our advanced experience and commitment to excellence have earned us the reputation as the best Information technology company in the area.</div>
                     </div>
                 </div>
             </div>
